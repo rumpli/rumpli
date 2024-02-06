@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          INPUT_CREDLY_USER: ${{ secrets.CREDLY_USER }}
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-## View my verified badges 🐧 
+## Certificates & Trainings 🎓 🐧 
 
 <!--START_SECTION:badges-->
 [![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/fc67b0c9-d0aa-458f-8137-704fe865030e "LFS258: Kubernetes Fundamentals")

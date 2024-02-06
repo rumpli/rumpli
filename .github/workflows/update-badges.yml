@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: rumpli/badge-readme@main
+        uses: pemtajo/badge-readme@main

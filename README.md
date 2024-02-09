@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Certificates & Trainings 🎓 🐧 
 
 <!--START_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/286757c3-ea16-48ec-b23d-4787c624664e "CKAD: Certified Kubernetes Application Developer")
 [![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/fc67b0c9-d0aa-458f-8137-704fe865030e "LFS258: Kubernetes Fundamentals")
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/110x110/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](http://www.credly.com/badges/55c04a23-8bcc-49d9-8d3a-983dc0c1936d "SC103: Shell Scripting using Bash")
 [![LFD259: Kubernetes for Developers](https://images.credly.com/size/110x110/images/5c15c611-e2dc-44ad-b39e-503bed8804c7/LF_logobadge.png)](http://www.credly.com/badges/9ce83fd2-7c07-4806-b2b0-44c67b730985 "LFD259: Kubernetes for Developers")

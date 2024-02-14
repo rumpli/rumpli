@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Certificates & Trainings 🎓 🐧 
 
 <!--START_SECTION:badges-->
+[![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/df7f8462-2656-4418-a24a-6148f50ad710 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/286757c3-ea16-48ec-b23d-4787c624664e "CKAD: Certified Kubernetes Application Developer")
 [![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/9e4096f6-038b-4c0a-ad60-832ef84cbf14/LF_logobadge.png)](http://www.credly.com/badges/fc67b0c9-d0aa-458f-8137-704fe865030e "LFS258: Kubernetes Fundamentals")
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/110x110/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](http://www.credly.com/badges/55c04a23-8bcc-49d9-8d3a-983dc0c1936d "SC103: Shell Scripting using Bash")

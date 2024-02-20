@@ -16,3 +16,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
+          CREDLY_SORT: "POPULAR"

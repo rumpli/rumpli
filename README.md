@@ -4,9 +4,13 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
 </p>
 
+---
+
 ## 🛠  Technologies and tools
 
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=466EED" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CloudFoundry-282C34?logo=cloudfoundry&logoColor=FFFFFF&labelColor=466EED" alt="CloudFoundry_logo" title="CloudFoundry" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🌱  What I am currently learning

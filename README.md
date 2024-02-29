@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
+</p>
 
 ## 🛠  Technologies and tools
 

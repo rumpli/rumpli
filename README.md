@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 🛠  Technologies and tools
+
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=5779F0" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+&nbsp;
+
+## 🌱  What I am currently learning
+
+[tech_tools_anchor]: #
+
 <!--
 **rumpli/rumpli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 
 ## 🛠  Technologies and tools
 
-[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=5779F0" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=466EED" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🌱  What I am currently learning

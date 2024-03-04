@@ -57,6 +57,19 @@
 
 [<img src="https://img.shields.io/badge/OpenTofu-282C34?logo=opentofu&logoColor=FFFFFF&labelColor=FFDA18" alt="Opentofu_logo" title="OpenTofu" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=FFFFFF&labelColor=00ADD8" alt="Go_logo" title="Go" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=FFFFFF&labelColor=4169E1" alt="PostgreSQL_logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Cilium-282C34?logo=cilium&logoColor=FFFFFF&labelColor=F8C517" alt="Cilium_logo" title="Cilium" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Argo-282C34?logo=argo&logoColor=FFFFFF&labelColor=EF7B4D" alt="Argo_logo" title="Argo" height="25" />][tech_tools_anchor]
+&nbsp;
+
+## 🔮 What I would like to learn in the future
+
+[<img src="https://img.shields.io/badge/DnD-282C34?logo=dungeonsanddragons&logoColor=FFFFFF&labelColor=ED1C24" alt="Dnd_logo" title="DnD" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ## 💪🏻  Skills
 
@@ -92,3 +105,8 @@ Here are some ideas to get you started:
 [![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/df7f8462-2656-4418-a24a-6148f50ad710 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/110x110/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](http://www.credly.com/badges/55c04a23-8bcc-49d9-8d3a-983dc0c1936d "SC103: Shell Scripting using Bash")
 <!--END_SECTION:badges-->
+
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="Linkedin_logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/englert/)
+&nbsp;

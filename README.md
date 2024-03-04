@@ -8,12 +8,59 @@
 
 ## 🛠  Technologies and tools
 
-[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=466EED" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/CloudFoundry-282C34?logo=cloudfoundry&logoColor=FFFFFF&labelColor=466EED" alt="CloudFoundry_logo" title="CloudFoundry" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CloudFoundry-282C34?logo=cloudfoundry&logoColor=FFFFFF&labelColor=0C9ED5" alt="CloudFoundry_logo" title="CloudFoundry" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/BOSH-282C34?logo=bosh&logoColor=FFFFFF&labelColor=4AB0E1" alt="Bosh_logo" title="BOSH" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25" alt="Bash_logo" title="Bash" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ZSH-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="ZSH" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF&labelColor=FCC624" alt="Linux_logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFFFFF&labelColor=2496ED" alt="Docker_logo" title="Docker" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redhat-282C34?logo=redhat&logoColor=FFFFFF&labelColor=EE0000" alt="Redhat_logo" title="Redhat" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF&labelColor=F05032" alt="Git_logo" title="Git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FFFFFF&labelColor=FF6600" alt="Rabbitmq_logo" title="RabbitMQ" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF&labelColor=3776AB" alt="Python_logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Helm-282C34?logo=helm&logoColor=FFFFFF&labelColor=0F1689" alt="Helm_logo" title="Helm" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform&logoColor=FFFFFF&labelColor=844FBA" alt="Terraform_logo" title="Terraform" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=FFFFFF&labelColor=47A248" alt="Mongodb_logo" title="MongoDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=FFFFFF&labelColor=003545" alt="Mariadb_logo" title="MariaDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=FFFFFF&labelColor=DC382D" alt="Redis_logo" title="Redis" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible&logoColor=FFFFFF&labelColor=EE0000" alt="Ansible_logo" title="Ansible" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ElasticStack-282C34?logo=elasticstack&logoColor=FFFFFF&labelColor=005571" alt="Elasticstack_logo" title="ElasticStack" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ElasticSearch-282C34?logo=elasticsearch&logoColor=FFFFFF&labelColor=005571" alt="Elasticsearch_logo" title="ElasticSearch" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kibana-282C34?logo=kibana&logoColor=FFFFFF&labelColor=005571" alt="Kibana_logo" title="Kibana" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ElasticCloudEnterprise-282C34?logo=elasticcloud&logoColor=FFFFFF&labelColor=005571" alt="Elasticcloud_logo" title="ElasticCloud" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🌱  What I am currently learning
+
+[<img src="https://img.shields.io/badge/OpenTofu-282C34?logo=opentofu&logoColor=FFFFFF&labelColor=FFDA18" alt="Opentofu_logo" title="OpenTofu" height="25" />][tech_tools_anchor]
+&nbsp;
+
+## 💪🏻  Skills
+
+
 
 [tech_tools_anchor]: #
 

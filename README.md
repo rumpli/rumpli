@@ -48,9 +48,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/ElasticSearch-282C34?logo=elasticsearch&logoColor=FFFFFF&labelColor=005571" alt="Elasticsearch_logo" title="ElasticSearch" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Logstash-282C34?logo=logstash&logoColor=FFFFFF&labelColor=005571" alt="Logstash_logo" title="Logstash" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Kibana-282C34?logo=kibana&logoColor=FFFFFF&labelColor=005571" alt="Kibana_logo" title="Kibana" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ElasticCloudEnterprise-282C34?logo=elasticcloud&logoColor=FFFFFF&labelColor=005571" alt="Elasticcloud_logo" title="ElasticCloud" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/InfluxDB-282C34?logo=influxdb&logoColor=FFFFFF&labelColor=22ADF6" alt="Influxdb_logo" title="InfluxDB" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Grafana-282C34?logo=grafana&logoColor=FFFFFF&labelColor=F46800" alt="Grafana_logo" title="Grafana" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🌱  What I am currently learning
@@ -65,9 +71,17 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Argo-282C34?logo=argo&logoColor=FFFFFF&labelColor=EF7B4D" alt="Argo_logo" title="Argo" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=FFFFFF&labelColor=E6522C" alt="Prometheus_logo" title="Prometheus" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/FluentD-282C34?logo=fluentd&logoColor=FFFFFF&labelColor=0E83C8" alt="Fluentd_logo" title="FluentD" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/FluentBit-282C34?logo=fluentbit&logoColor=FFFFFF&labelColor=49BDA5" alt="Fluentbit_logo" title="FluentBit" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ## 🔮 What I would like to learn in the future
 
+[<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=FFFFFF&labelColor=363636" alt="Solidity_logo" title="Solidity" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/DnD-282C34?logo=dungeonsanddragons&logoColor=FFFFFF&labelColor=ED1C24" alt="Dnd_logo" title="DnD" height="25" />][tech_tools_anchor]
 &nbsp;
 

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rumpli" alt="rumpli" /> </p>
+
+---
+
 <p align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" />
 </p>

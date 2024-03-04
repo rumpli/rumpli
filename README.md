@@ -82,7 +82,7 @@
 [<img src="https://img.shields.io/badge/FluentBit-282C34?logo=fluentbit&logoColor=FFFFFF&labelColor=49BDA5" alt="Fluentbit_logo" title="FluentBit" height="25" />][tech_tools_anchor]
 &nbsp;
 
-## 🔮 What I would like to learn in the future
+## 🔮  What I would like to learn in the future
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=FFFFFF&labelColor=363636" alt="Solidity_logo" title="Solidity" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Certificates & Trainings 🎓 🐧 
+##  Certificates & Trainings 🎓 🐧 
 
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/efc9b2b8-8a1b-473e-a62d-c025202ddc14 "CKA: Certified Kubernetes Administrator")

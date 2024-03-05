@@ -86,6 +86,8 @@
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=FFFFFF&labelColor=363636" alt="Solidity_logo" title="Solidity" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/ChaosMesh-282C34?logo=chaosmesh&logoColor=FFFFFF&labelColor=D55E75" alt="Chaosmesh_logo" title="ChaosMesh" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/DnD-282C34?logo=dungeonsanddragons&logoColor=FFFFFF&labelColor=ED1C24" alt="Dnd_logo" title="DnD" height="25" />][tech_tools_anchor]
 &nbsp;
 

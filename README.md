@@ -30,11 +30,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Redhat-282C34?logo=redhat&logoColor=FFFFFF&labelColor=EE0000" alt="Redhat_logo" title="Redhat" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=FFFFFF&labelColor=E95420" alt="Ubuntu_logo" title="Ubuntu" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF&labelColor=F05032" alt="Git_logo" title="Git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FFFFFF&labelColor=FF6600" alt="Rabbitmq_logo" title="RabbitMQ" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=FFFFFF&labelColor=3776AB" alt="Python_logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=FFFFFF&labelColor=CC342D" alt="Ruby_logo" title="Ruby" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Helm-282C34?logo=helm&logoColor=FFFFFF&labelColor=0F1689" alt="Helm_logo" title="Helm" height="25" />][tech_tools_anchor]
 &nbsp;

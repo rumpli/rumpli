@@ -131,6 +131,7 @@ Here are some ideas to get you started:
 [![LFS260: Kubernetes Security Essentials](https://images.credly.com/size/110x110/images/6157ec8e-09df-4704-a18b-470487576817/LF_logobadge.png)](http://www.credly.com/badges/73e7e102-df32-4d11-8b96-e144891966d0 "LFS260: Kubernetes Security Essentials")
 [![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/df7f8462-2656-4418-a24a-6148f50ad710 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/110x110/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](http://www.credly.com/badges/55c04a23-8bcc-49d9-8d3a-983dc0c1936d "SC103: Shell Scripting using Bash")
+[![SC100: Text Editing with Vim](https://images.credly.com/size/110x110/images/102aa232-41cf-4187-9cda-b0efb0ba63a4/image.png)](http://www.credly.com/badges/80afaae5-eaa8-4f38-825c-7899ce9dfafb "SC100: Text Editing with Vim")
 <!--END_SECTION:badges-->
 
 ---

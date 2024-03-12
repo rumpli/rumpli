@@ -22,6 +22,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF&labelColor=FCC624" alt="Linux_logo" title="Linux" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=FFFFFF&labelColor=019733" alt="Vim_logo" title="Vim" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF&labelColor=F05032" alt="Git_logo" title="Git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ElasticStack-282C34?logo=elasticstack&logoColor=FFFFFF&labelColor=005571" alt="Elasticstack_logo" title="ElasticStack" height="25" />][tech_tools_anchor]

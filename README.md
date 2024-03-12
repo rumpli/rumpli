@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hi there 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rumpli" alt="rumpli" /> </p>
 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎓  Certificates & Trainings
+## 🎓  Certificates & Trainings
 
 <!--START_SECTION:badges-->
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/efc9b2b8-8a1b-473e-a62d-c025202ddc14 "CKA: Certified Kubernetes Administrator")

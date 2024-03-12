@@ -10,7 +10,7 @@
 
 ---
 
-## 🌪️  Master (of desaster)
+## 🌪️  Master (of disaster)
 
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
 &nbsp;

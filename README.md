@@ -10,7 +10,7 @@
 
 ---
 
-## 🌪️  Master (of disaster)
+## 🌪️  Master (of disaster)
 
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -89,7 +89,7 @@
 [<img src="https://img.shields.io/badge/FluentBit-282C34?logo=fluentbit&logoColor=FFFFFF&labelColor=49BDA5" alt="Fluentbit_logo" title="FluentBit" height="25" />][tech_tools_anchor]
 &nbsp;
 
-## 🔮  What I would like to learn in the future
+## 🔮  What I would like to learn in the future
 
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=FFFFFF&labelColor=363636" alt="Solidity_logo" title="Solidity" height="25" />][tech_tools_anchor]
 &nbsp;

@@ -33,7 +33,7 @@
 
 [<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ZSH-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="ZSH" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/zsh-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="zsh" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFFFFF&labelColor=2496ED" alt="Docker_logo" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;

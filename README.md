@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠  Technologies and tools
+## 🌪️  Master (of desaster)
 
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=FFFFFF&labelColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -18,21 +18,26 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/BOSH-282C34?logo=bosh&logoColor=FFFFFF&labelColor=4AB0E1" alt="Bosh_logo" title="BOSH" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25" alt="Bash_logo" title="Bash" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ZSH-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="ZSH" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FFFFFF&labelColor=FCC624" alt="Linux_logo" title="Linux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF&labelColor=F05032" alt="Git_logo" title="Git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ElasticStack-282C34?logo=elasticstack&logoColor=FFFFFF&labelColor=005571" alt="Elasticstack_logo" title="ElasticStack" height="25" />][tech_tools_anchor]
+&nbsp;
+
+## 🛠  Technologies and tools
+
+[<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/ZSH-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="ZSH" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=FFFFFF&labelColor=2496ED" alt="Docker_logo" title="Docker" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redhat-282C34?logo=redhat&logoColor=FFFFFF&labelColor=EE0000" alt="Redhat_logo" title="Redhat" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=FFFFFF&labelColor=E95420" alt="Ubuntu_logo" title="Ubuntu" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=FFFFFF&labelColor=F05032" alt="Git_logo" title="Git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FFFFFF&labelColor=FF6600" alt="Rabbitmq_logo" title="RabbitMQ" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -51,8 +56,6 @@
 [<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=FFFFFF&labelColor=DC382D" alt="Redis_logo" title="Redis" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible&logoColor=FFFFFF&labelColor=EE0000" alt="Ansible_logo" title="Ansible" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/ElasticStack-282C34?logo=elasticstack&logoColor=FFFFFF&labelColor=005571" alt="Elasticstack_logo" title="ElasticStack" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/ElasticSearch-282C34?logo=elasticsearch&logoColor=FFFFFF&labelColor=005571" alt="Elasticsearch_logo" title="ElasticSearch" height="25" />][tech_tools_anchor]
 &nbsp;

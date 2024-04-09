@@ -148,3 +148,6 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/LinuxFoundation-282C34?logo=linuxfoundation&logoColor=FFFFFF&labelColor=003366" alt="Linuxfoundation_logo" title="LinuxFoundation" height="25" />](https://openprofile.dev/profile/Rumpli)
 &nbsp;
+[<img src="https://img.shields.io/badge/Credly-282C34?logo=credly&logoColor=FFFFFF&labelColor=FF6B00" alt="Credly_logo" title="Credly" height="25" />](https://www.credly.com/users/yannick-englert/badges)
+&nbsp;
+

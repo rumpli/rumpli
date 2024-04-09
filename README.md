@@ -137,6 +137,7 @@ Here are some ideas to get you started:
 [![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/df7f8462-2656-4418-a24a-6148f50ad710 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/110x110/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/d0ce236f-04ae-44b6-a149-4f9e0b73f390 "KCSA: Kubernetes and Cloud Native Security Associate")
 [![SC102: Source Control Management with Git](https://images.credly.com/size/110x110/images/29ad7ced-93b0-4543-b84c-3c6ccc183405/image.png)](http://www.credly.com/badges/d644b1d7-e914-4182-8ac1-217ee566c6b3 "SC102: Source Control Management with Git")
+[![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](http://www.credly.com/badges/238c1f11-10db-47f6-b738-3a6b7824ec31 "Kubestronaut")
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/110x110/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](http://www.credly.com/badges/55c04a23-8bcc-49d9-8d3a-983dc0c1936d "SC103: Shell Scripting using Bash")
 [![SC100: Text Editing with Vim](https://images.credly.com/size/110x110/images/102aa232-41cf-4187-9cda-b0efb0ba63a4/image.png)](http://www.credly.com/badges/80afaae5-eaa8-4f38-825c-7899ce9dfafb "SC100: Text Editing with Vim")
 <!--END_SECTION:badges-->

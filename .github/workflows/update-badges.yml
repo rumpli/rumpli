@@ -17,4 +17,4 @@ jobs:
         with:
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           CREDLY_SORT: "POPULAR"
-          BADGE_SIZE: 111
+          BADGE_SIZE: 115

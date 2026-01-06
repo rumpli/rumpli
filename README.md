@@ -32,6 +32,14 @@
 
 ## 🛠  Technologies and tools
 
+[<img src="https://img.shields.io/badge/macOS-282C34?logo=apple&logoColor=F0F0F0&labelColor=000000" alt="Apple logo" title="Apple" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/iTerm2-282C34?logo=iterm2&logoColor=FFFFFF&labelColor=000000" alt="iTerm2 logo" title="iTerm2" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/tmux-282C34?logo=tmux&logoColor=FFFFFF&labelColor=1BB91F" alt="Tmux logo" title="Tmux" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Talos-282C34?logo=talosx&logoColor=FFFFFF&labelColor=FCC624" alt="Talos logo" title="Talos" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/zsh-282C34?logo=zsh&logoColor=FFFFFF&labelColor=F15A24" alt="zsh_logo" title="zsh" height="25" />][tech_tools_anchor]

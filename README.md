@@ -29,6 +29,7 @@
 [<img src="https://img.shields.io/badge/ElasticStack-282C34?logo=elasticstack&logoColor=FFFFFF&labelColor=005571" alt="Elasticstack_logo" title="ElasticStack" height="25" />][tech_tools_anchor]
 &nbsp;
 
+
 ## 🛠  Technologies and tools
 
 [<img src="https://img.shields.io/badge/Concourse-282C34?logo=concourse&logoColor=FFFFFF&labelColor=3398DC" alt="Concourse_logo" title="Concourse" height="25" />][tech_tools_anchor]
@@ -51,6 +52,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Terraform-282C34?logo=terraform&logoColor=FFFFFF&labelColor=844FBA" alt="Terraform_logo" title="Terraform" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/OpenTofu-282C34?logo=opentofu&logoColor=FFFFFF&labelColor=FFDA18" alt="Opentofu_logo" title="OpenTofu" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=FFFFFF&labelColor=47A248" alt="Mongodb_logo" title="MongoDB" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=FFFFFF&labelColor=003545" alt="Mariadb_logo" title="MariaDB" height="25" />][tech_tools_anchor]
@@ -71,24 +74,20 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Grafana-282C34?logo=grafana&logoColor=FFFFFF&labelColor=F46800" alt="Grafana_logo" title="Grafana" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/OpenTelemetry-282C34?logo=opentelemetry&logoColor=FFFFFF&labelColor=363636" alt="OpenTelemetry logo" title="OpenTelemetry" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Argo-282C34?logo=argo&logoColor=FFFFFF&labelColor=EF7B4D" alt="Argo_logo" title="Argo" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ## 🌱  What I am currently learning
 
-[<img src="https://img.shields.io/badge/OpenTofu-282C34?logo=opentofu&logoColor=FFFFFF&labelColor=FFDA18" alt="Opentofu_logo" title="OpenTofu" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=FFFFFF&labelColor=00ADD8" alt="Go_logo" title="Go" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=FFFFFF&labelColor=4169E1" alt="PostgreSQL_logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Cilium-282C34?logo=cilium&logoColor=FFFFFF&labelColor=F8C517" alt="Cilium_logo" title="Cilium" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Argo-282C34?logo=argo&logoColor=FFFFFF&labelColor=EF7B4D" alt="Argo_logo" title="Argo" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus&logoColor=FFFFFF&labelColor=E6522C" alt="Prometheus_logo" title="Prometheus" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/FluentD-282C34?logo=fluentd&logoColor=FFFFFF&labelColor=0E83C8" alt="Fluentd_logo" title="FluentD" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/FluentBit-282C34?logo=fluentbit&logoColor=FFFFFF&labelColor=49BDA5" alt="Fluentbit_logo" title="FluentBit" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## 🔮  What I would like to learn in the future

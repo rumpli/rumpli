@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@3.2
         with:
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           NUMBER_LAST_BADGES: 0

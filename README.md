@@ -134,6 +134,7 @@ Here are some ideas to get you started:
 ## 🎓  Certificates & Trainings
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d44aed76-f83e-4d56-a211-deb27f0b0b72" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a0b2ff78-2148-4c3a-8857-29bfb0a71842" title="CNPA: Certified Cloud Native Platform Engineering Associate"><img src="https://images.credly.com/size/80x80/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/238c1f11-10db-47f6-b738-3a6b7824ec31" title="Kubestronaut"><img src="https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d0ce236f-04ae-44b6-a149-4f9e0b73f390" title="KCSA: Kubernetes and Cloud Native Security Associate"><img src="https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="80" height="80"></a>

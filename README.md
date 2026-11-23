@@ -134,6 +134,9 @@ Here are some ideas to get you started:
 ## 🎓  Certificates & Trainings
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/5e65a3e3-2047-41aa-bcbe-56701e35b0dd" title="CGOA: Certified GitOps Associate"><img src="https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/0f9564ac-5a9f-41c2-8aea-5d3f05b732fa" title="KCA: Kyverno Certified Associate"><img src="https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA: Kyverno Certified Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/8b463a88-1e89-4fcc-817d-ab920c6270a8" title="PCA: Prometheus Certified Associate"><img src="https://images.credly.com/size/80x80/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b3cfdb7e-3903-435d-baa6-5d7c539507f2" title="CAPA: Certified Argo Project Associate"><img src="https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d44aed76-f83e-4d56-a211-deb27f0b0b72" title="OTCA: OpenTelemetry Certified Associate"><img src="https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob" alt="OTCA: OpenTelemetry Certified Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/a0b2ff78-2148-4c3a-8857-29bfb0a71842" title="CNPA: Certified Cloud Native Platform Engineering Associate"><img src="https://images.credly.com/size/80x80/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="80" height="80"></a>

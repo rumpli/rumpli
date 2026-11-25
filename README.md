@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rumpli" alt="rumpli" /> </p>
-
 ---
 
 <p align="center">  
@@ -133,6 +131,15 @@ Here are some ideas to get you started:
 
 ## 🎓  Certificates & Trainings
 
+<a href="https://certdirectory.io/profile/member-01a211e9?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/member-01a211e9.svg?style=card&theme=dark">
+    <img alt="Yannick Englert on CertDirectory" src="https://certdirectory.io/badge/member-01a211e9.svg?style=card">
+  </picture>
+</a>
+
+---
+
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/238c1f11-10db-47f6-b738-3a6b7824ec31" title="Kubestronaut"><img src="https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ab7992f4-f0e7-4c87-b93d-95b07d6fac8d" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
@@ -165,3 +172,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Credly-282C34?logo=credly&logoColor=FFFFFF&labelColor=FF6B00" alt="Credly_logo" title="Credly" height="25" />](https://www.credly.com/users/yannick-englert/badges)
 &nbsp;
 
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rumpli" alt="rumpli" /> </p>
